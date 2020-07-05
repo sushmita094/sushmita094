@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on React Projects
+- 🌱 I’m currently learning Javascript in depth!
+- 👯 I’m looking to collaborate on Exciting Projects
+- 💬 Ask me about CSS
+- 📫 How to reach me: Twitter - https://twitter.com/sushmitacodes/
+- 😄 Pronouns: She/Her
+
 <!--
 **sushmita094/sushmita094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
